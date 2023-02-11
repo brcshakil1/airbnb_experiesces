@@ -1,0 +1,15 @@
+.navbar {
+    height: 70px;
+    box-shadow: 0px 2.98256px 7.4564px rgba(0, 0, 0, 0.1);
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+.navbar img {
+    width: 100px;
+}
+
+.section-margin {
+    padding: 1.5rem 2rem;
+}
